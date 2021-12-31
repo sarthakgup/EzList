@@ -1,4 +1,6 @@
 # EzList
+PUBLISHED ON iOS APP STORE 12/29/21
+
 A new iOS app to introduce a simplified experience for creating lists to improve daily productivity. MY FIRST iOS APP!
 
 
